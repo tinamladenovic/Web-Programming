@@ -1,0 +1,6 @@
+1;44.7866;20.4489;Main Street 10, Belgrade, 11000
+2;45.2671;19.8335;Zmaj Jovina 4, Novi Sad, 21000
+3;43.8563;18.4131;Marsala Tita 6, Niš, 18000
+4;45.2517;19.8369;Bulevar Oslobođenja 102, Novi Sad, 21000
+5;44.8176;20.4633;Knez Mihailova 1, Belgrade, 11000
+

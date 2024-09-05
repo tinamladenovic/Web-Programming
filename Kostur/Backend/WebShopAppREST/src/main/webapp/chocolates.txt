@@ -1,0 +1,21 @@
+1;Cokolada A;2.50;PLAIN;1;DARK;100;Tamna čokolada sa 70% kakaa.;choco1.png;IN_STOCK;50
+2;Cokolada B;3.00;PLAIN;2;MILK;150;Mlečna čokolada sa karamelom.;choco2.png;IN_STOCK;40
+3;Cokolada C;2.80;FOR_COOKING;3;WHITE;200;Bela čokolada za kuvanje.;choco3.png;IN_STOCK;30
+4;Cokolada D;3.20;FOR_DRINKING;4;DARK;100;Tamna čokolada za toplu čokoladu.;choco4.png;OUT_OF_STOCK;0
+5;Cokolada E;2.90;PLAIN;5;MILK;120;Mlečna čokolada sa lešnicima.;choco5.png;IN_STOCK;60
+6;Cokolada F;3.50;FOR_COOKING;1;WHITE;250;Bela čokolada sa bademima.;choco6.png;IN_STOCK;20
+7;Cokolada G;2.75;FOR_DRINKING;2;DARK;100;Tamna čokolada sa cimetom.;choco7.png;OUT_OF_STOCK;0
+8;Cokolada H;3.00;PLAIN;3;MILK;180;Mlečna čokolada sa suvim grožđem.;choco8.png;IN_STOCK;35
+9;Cokolada I;3.25;FOR_COOKING;4;DARK;220;Tamna čokolada sa čilijem.;choco9.png;IN_STOCK;45
+10;Cokolada J;2.95;FOR_DRINKING;5;WHITE;150;Bela čokolada za toplu čokoladu.;choco1.png;IN_STOCK;55
+11;Cokolada K;3.10;PLAIN;1;MILK;170;Mlečna čokolada sa keksom.;choco2.png;IN_STOCK;25
+12;Cokolada L;3.60;FOR_COOKING;2;DARK;200;Tamna čokolada sa đumbirom.;choco3.png;IN_STOCK;30
+13;Cokolada M;2.85;FOR_DRINKING;3;WHITE;120;Bela čokolada sa vanilom.;choco4.png;OUT_OF_STOCK;0
+14;Cokolada N;3.00;PLAIN;4;MILK;140;Mlečna čokolada sa narandžom.;choco5.png;IN_STOCK;40
+15;Cokolada O;3.30;FOR_COOKING;5;DARK;250;Tamna čokolada sa kikirikijem.;choco6.png;IN_STOCK;35
+16;Cokolada P;2.70;FOR_DRINKING;1;WHITE;130;Bela čokolada sa kokosom.;choco7.png;IN_STOCK;50
+17;Cokolada Q;3.00;PLAIN;2;DARK;200;Tamna čokolada sa bademima.;choco8.png;IN_STOCK;45
+18;Cokolada R;3.40;FOR_COOKING;3;MILK;180;Mlečna čokolada sa suvim voćem.;choco9.png;OUT_OF_STOCK;0
+19;Cokolada S;2.95;FOR_DRINKING;4;WHITE;150;Bela čokolada sa malinom.;choco1.png;IN_STOCK;60
+20;Cokolada T;3.20;PLAIN;5;DARK;120;Tamna čokolada sa soli.;choco2.png;IN_STOCK;55
+
